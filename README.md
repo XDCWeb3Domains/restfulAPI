@@ -10,6 +10,7 @@ Endpoint: https://app.xdcdomains.xyz/api/domains/getOwner?domain=domain&metadata
 **Param:**
 
 domain: 'xdc.xdc'
+
 metadata: true // false default return metadata along with domain information
 
 **Return:** 
