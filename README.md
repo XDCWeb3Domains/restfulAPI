@@ -3,7 +3,7 @@
 ### Get Resolve .xdc domain
 Resolve .xdc domain to get the address of the owner.
 
-Endpoint: https://app.xdcdomains.xyz/api/domains/getOwner?domain=domain&metadata=true
+Endpoint: https://app.xdcdomains.xyz/api/domains/getOwner?domain=domain.xdc
 
 **Method: GET**
 
