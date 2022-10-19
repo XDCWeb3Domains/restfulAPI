@@ -1,8 +1,10 @@
-## Restful API for XDC Web3 Domains
+## API for XDC Web3 Domains
 
 dApp Mainnet: https://xdcdomains.xyz/app
 
 dApp Testnet: https://xdcdomains.xyz/apptest
+
+Use NPMJS: https://github.com/XDCWeb3Domains/xdcdomainjs/blob/main/README.md
 
 ### Get Resolve .xdc domain
 Resolve .xdc domain to get the address of the owner.
