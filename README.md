@@ -60,11 +60,7 @@ network: 'testnet' // mainnet default
 {
     status: true,
     message: "Success",
-    data:
-        { 
-            "domain": "xdc.xdc"
-        }
-    ]
+    data:["xdc.xdc"]
 }
 ```
 
