@@ -52,8 +52,7 @@ network: 'testnet' // mainnet default
     message: "Success",
     data:
         { 
-            "domain": "xdc.xdc",
-            "setDefault":true
+            "domain": "xdc.xdc"
         }
     ]
 }
@@ -77,16 +76,7 @@ network: 'testnet' // mainnet default
 {
     status: true,
     message: "Success",
-    data: [
-        { 
-            "domain": "xdcnetwork.xdc",
-            "setDefault":true
-        },
-        { 
-            "domain": "xdc.xdc",
-            "setDefault":false
-        },
-    ]
+    data: ["xdcnetwork.xdc","xxxxxx.xdc" ..]
 }
 ```
 
