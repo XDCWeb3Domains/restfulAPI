@@ -1,5 +1,7 @@
 ## Restful API for XDC Web3 Domains
 
+dApp Mainnet: https://xdcdomains.xyz/app
+
 dApp Testnet: https://xdcdomains.xyz/apptest
 
 ### Get Resolve .xdc domain
