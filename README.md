@@ -6,12 +6,13 @@ dApp Testnet: https://xdcdomains.xyz/apptest
 
 Use NPMJS: https://github.com/XDCWeb3Domains/xdcdomainjs/blob/main/README.md
 
+Contract Address (Mainnet): xdc295a7ab79368187a6cd03c464cfaab04d799784e - https://explorer.xinfin.network/tokens/xdc295a7ab79368187a6cd03c464cfaab04d799784e
+
+Contract Address (Testnet): xdc41da23dfaf3990f7831c838b54a7f734efcc5971 - https://apothem.xinfinscan.com/tokens/xdc41da23dfaf3990f7831c838b54a7f734efcc5971
+
 ### Get Resolve .xdc domain
 Resolve .xdc domain to get the address of the owner.
 
-Contract Address (Mainnet): xdc295a7ab79368187a6cd03c464cfaab04d799784e
-
-Contract Address (Testnet): xdc41da23dfaf3990f7831c838b54a7f734efcc5971
 
 Endpoint: https://app.xdcdomains.xyz/api/domains/getOwner?domain=domain.xdc&network=mainnet
 
